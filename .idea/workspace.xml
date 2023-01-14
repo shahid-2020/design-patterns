@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1374883e-47f2-440d-9ba5-b74a42b54d19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/custom/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/custom/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/custom/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/custom/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/custom/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/util/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/observerPattern/util/Subscriber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategyPattern/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategyPattern/Addition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategyPattern/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategyPattern/Context.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategyPattern/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategyPattern/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategyPattern/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategyPattern/Strategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/strategyPattern/Subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategyPattern/Subtraction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.observerPattern.custom.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPattern.Demo" />
       <module name="design-patterns" />
@@ -58,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="observerPattern.custom.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observerPattern.custom.Demo" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observerPattern.custom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.observerPattern.custom.Demo" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>

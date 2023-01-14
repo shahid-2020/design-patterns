@@ -14,9 +14,9 @@ public class Demo {
         float b = Float.parseFloat(br.readLine());
 
         Context additionContext = new Context(new Addition());
-        System.out.println("Addition = "+ additionContext.executeStrategy(a, b));
+        System.out.println("Addition = " + additionContext.executeStrategy(a, b));
 
         Context subtarctionContext = new Context(new Subtraction());
-        System.out.println("Subtraction = "+ subtarctionContext.executeStrategy(a, b));
+        System.out.println("Subtraction = " + subtarctionContext.executeStrategy(a, b));
     }
 }

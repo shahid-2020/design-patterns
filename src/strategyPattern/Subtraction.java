@@ -1,9 +1,9 @@
 package strategyPattern;
 
-public class Subtraction implements Strategy{
+public class Subtraction implements Strategy {
 
     @Override
-    public float calc(float a, float b){
-        return a-b;
+    public float calc(float a, float b) {
+        return a - b;
     }
 }

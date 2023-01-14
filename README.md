@@ -7,3 +7,4 @@
 ### 3. Behavioral: These patterns are designed depending on how one class communicates with others.
 
 1. **Strategy Pattern**
+2. **Observer Pattern**
