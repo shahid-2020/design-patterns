@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1374883e-47f2-440d-9ba5-b74a42b54d19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/decoratorPattern/BasicCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decoratorPattern/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decoratorPattern/CarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decoratorPattern/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decoratorPattern/LuxuryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decoratorPattern/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryPattern/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryPattern/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryPattern/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryPattern/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factoryPattern/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.decoratorPattern.Demo">
+  <component name="RunManager" selected="Application.factoryPattern.Demo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPattern.Demo" />
       <module name="design-patterns" />
@@ -65,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="decoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factoryPattern.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factoryPattern.Demo" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.factoryPattern.Demo" />
         <item itemvalue="Application.decoratorPattern.Demo" />
         <item itemvalue="Application.observerPattern.util.Demo" />
         <item itemvalue="Application.observerPattern.custom.Demo" />
